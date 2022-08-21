@@ -1,0 +1,56 @@
+{
+    "bot": {
+        "owner": "884451720510451753",
+        "prefix": ".",
+        "BotStatus": "İslam ❤️ Akademisi",
+        "BotFooter": "İslam ❤️ Akademisi",
+        "cooldown": 8
+    },
+    "logs": {
+        "taglog": "992582413576306719",
+        "isimlog": "992582413576306719",
+        "rollog": "992582026827935784",
+        "kayıtlog": "992577965185564672"
+    },
+    "roles": {
+        "booster": "993264595735167117",
+        "vip": "",
+        "sponsor": "",
+        "müzisyen": "",
+        "team": ""
+    },
+    "channels": {
+        "chat": "992564673721421824",
+        "voicechannel": "996750796995702876",
+        "welcomechannel": "992564673721421824",
+        "rules": "992566357050806312"
+    },
+    "registration": {
+        "unregistered": "992534038663409745",
+        "man": ["992534240455565414", "992534240455565414"],
+        "woman": ["992534308738846740", "992534308738846740"],
+        "botcommands": "",
+        "staff": "992562309912338473",
+        "GuilDTag": "",
+        "TagSymbol": "☾",
+        "autonickname": "",
+        "symbol": "•",
+        "suspecios": "994609914716635196",
+        "susoeciosnickname": "• Şüpheli Hesap",
+        "oneman": "992534240455565414",
+        "onewoman": "992534308738846740",
+        "GuildDiscrim": "",
+        "minage": 10, 
+        "purchase": false
+    },
+    "Guild": {
+        "GuildID": "992501431343001711",
+        "GuilDName": "İslam Akademisi",
+        "GuildOwnerRole": ["975335483620098058", "975335483620098058"]
+    },
+    "emojis": {
+        "tada": "<a:leise_tada:997202772841730048>",
+        "yes": "<a:aktif:997089750181744671>",
+        "no": "<a:deaktif:997089766325624833>"
+        }
+    } 
